@@ -12,3 +12,8 @@ PyTorch is a machine learning framework based on the Torch library, used for app
 ------------------------------------------------------------------
 You can easily follow the Official Website's installation [guide](
 https://pytorch.org/get-started/locally/)
+
+# How To Follow This Tutorial ?
+------------------------------------------------------------------
+You can follow the tutorial as what defined here:
+1. First you must learn about scalars, vectors, matrices, and tensors. To do so, read [Tensor](https://github.com/alishhde/PytorchTutorials/blob/master/1.%20Tensors.ipynb) notebook.
