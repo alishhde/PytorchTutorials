@@ -17,3 +17,4 @@ https://pytorch.org/get-started/locally/)
 ------------------------------------------------------------------
 You can follow the tutorial as what defined here:
 1. First you must learn about scalars, vectors, matrices, and tensors. To do so, read [Tensor](https://github.com/alishhde/PytorchTutorials/blob/master/1.%20Tensors.ipynb) notebook.
+2. Then, continue your learning with Pytorch [DataLoader](https://github.com/alishhde/PytorchTutorials/blob/master/2.%20Working%20with%20Data.ipynb) to see how your use the pre-data that this framework has provided for us.
